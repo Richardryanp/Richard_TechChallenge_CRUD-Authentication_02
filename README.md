@@ -2,6 +2,12 @@
 
 A backend project using Express and Prisma ORM.
 
+This Tech Challenge consisted of two main requirements:
+- CRUD (Create, Read, Update, Delete)
+- Authentication (JWT-based login & registration)
+
+Even though the challenge could have been done as two separate projects, both CRUD and authentication were combined into one backend to better reflect how real-world APIs are built.
+
 ## Features
 
 - User authentication (register, login)
